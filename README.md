@@ -202,7 +202,7 @@ spring-ai-customer-agent/
 
 ## 📩 支持与反馈
 
-- 🐛 提交 Issue：[GitHub Issues](https://github.com/your-org/spring-ai-customer-agent/issues)
+- 🐛 提交 Issue：[GitHub Issues](https://github.com/shawnyang91/spring-ai-customer-agent/issues)
 - 💬 技术交流群：扫码加入 Spring AI 实践社区
 - 📧 商务合作：`ai-agent@yourcompany.com`
 
